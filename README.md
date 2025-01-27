@@ -1,5 +1,3 @@
-# login
-
 ## Project setup
 ```
 npm install
